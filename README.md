@@ -1,4 +1,6 @@
 # solidity 練習用專案
+目前進度：
+建立第一個加密代幣合約 完成
 
 - - -
 
@@ -44,8 +46,7 @@
 1. https://github.com/ethereum/web3.js/issues/1540
 2. https://web3js.readthedocs.io/en/v1.2.0/web3-eth-accounts.html
 
-目前進度：
-建立第一個加密代幣合約 完成
+
 
 參考資料：
 1. https://gasolin.gitbooks.io/learn-ethereum-dapp/content/write-smart-contract-with-solidity.html
