@@ -41,11 +41,11 @@
     eth_getTransactionReceipt
 
 備註：
-https://github.com/ethereum/web3.js/issues/1540
-https://web3js.readthedocs.io/en/v1.2.0/web3-eth-accounts.html
+1. https://github.com/ethereum/web3.js/issues/1540
+2. https://web3js.readthedocs.io/en/v1.2.0/web3-eth-accounts.html
 
 
 參考資料：
-https://gasolin.gitbooks.io/learn-ethereum-dapp/content/write-smart-contract-with-solidity.html
+1. https://gasolin.gitbooks.io/learn-ethereum-dapp/content/write-smart-contract-with-solidity.html
 
 
